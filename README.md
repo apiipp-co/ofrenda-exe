@@ -1,12 +1,12 @@
 # 🕯️ Ofrenda.exe
 
-> **A tiny local AI memory keeper for the Ghost in the Machine challenge.**
+> **A tiny local AI memory keeper for the Ghost in the Machine challenge**
 
 Ofrenda.exe turns one small memory into a warm remembrance card inspired by
-Día de los Muertos. It is a friendly ghost in your terminal: a machine that
-does not resurrect the past, but helps us keep its light visible.
+Día de los Muertos. It is a friendly ghost in your terminal. The machine does
+not resurrect the past. It helps us keep its light visible.
 
-The project uses an open-weight model running locally through [Ollama](https://ollama.com/).
+The project uses an open weight model running locally through [Ollama](https://ollama.com/).
 Your names, stories, and family memories stay on your machine. No account,
 cloud API key, or upload is required.
 
@@ -44,9 +44,9 @@ Use another local model with `--model`, for example `--model llama3.2:3b`.
 
 Memories are intimate. Local inference keeps them private, makes the project
 usable without internet, and lets people replace the model instead of being
-locked into a disappearing service. The machine becomes an ofrenda: a place
+locked into a disappearing service. The machine becomes an ofrenda, a place
 where old stories can safely meet new tools.
 
 ## 📜 License
 
-MIT — see [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
